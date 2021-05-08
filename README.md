@@ -393,3 +393,6 @@ My favorite search engine is \[Duck Duck Go]\(https://duckduckgo.com "The best s
 예를 들어 다음과 같이 문자에 볼드체를 사용한 경우 *bold* <br>
 사용한 리터럴 문자 앞에 백 슬래시를 추가하면 \*bold\* 가 된다. 
 
+### 출처
+- https://www.markdownguide.org/
+- https://code.visualstudio.com/docs/languages/markdown
